@@ -2,28 +2,30 @@
 
 My name is Lucas Medeiros.
 
-⚡ I’m currently working on [Back-end, Front-end]
+⚡ I’m currently working on 
+
+* [Back-end, Front-end]
 
 🔭 The technologies I'm currently working with 🌱
 
-[ React.js ]
+* [ React.js ]
 
-[ PHP ]
+* [ PHP ]
 
-[ Jquery ]
+* [ Jquery ]
 
-[ NodeJS ]
+* [ NodeJS ]
 
-[ Socket.io ]
+* [ Socket.io ]
 
-[ Bash ]
+* [ Bash ]
 
-[ FFMPEG ]
+* [ FFMPEG ]
 
 
 🌱 I’m currently learning
 
-[ Flutter ❤️ ]
+* [ Flutter ❤️ ]
 
 📫 How to reach me
 
