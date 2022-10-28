@@ -25,7 +25,7 @@ My name is Lucas Medeiros.
 
 🌱 I’m currently learning
 
-* [ Flutter ❤️ ]
+* [ Swift ❤️ ]
 
 📫 How to reach me
 
